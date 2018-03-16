@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Camp Demo", "Code Camp Demo\Code Camp Demo.csproj", "{4EC231A0-EC79-413C-84DA-E87AAD21637A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code_Camp_Demo", "Code_Camp_Demo\Code_Camp_Demo.csproj", "{4EC231A0-EC79-413C-84DA-E87AAD21637A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
